@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08505e25-e5b6-472f-bdd4-7a8071452e7d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XoOgl5iLD6hNickto1JPbL2kuQ" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RunManager" selected="Application.Find_Element_At_Given_Index_After_A_Number_Of_Rotations">
+    <configuration name="Count_Triplets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Count_Triplets" />
+      <module name="DataStructure_Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Find_Element_At_Given_Index_After_A_Number_Of_Rotations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.geeksforgeeks.array.Find_Element_At_Given_Index_After_A_Number_Of_Rotations" />
+      <module name="DataStructure_Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.geeksforgeeks.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Find_Index_Of_Min_Element_In_Rotated_Sorted_Array_USING_BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.geeksforgeeks.array.Find_Index_Of_Min_Element_In_Rotated_Sorted_Array_USING_BinarySearch" />
+      <module name="DataStructure_Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.geeksforgeeks.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Find_Index_Of_Min_Element_In_Rotated_Sorted_Array_USING_LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.geeksforgeeks.array.Find_Index_Of_Min_Element_In_Rotated_Sorted_Array_USING_LinearSearch" />
+      <module name="DataStructure_Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.geeksforgeeks.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="DataStructure_Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Find_Element_At_Given_Index_After_A_Number_Of_Rotations" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Find_Index_Of_Min_Element_In_Rotated_Sorted_Array_USING_BinarySearch" />
+        <item itemvalue="Application.Count_Triplets" />
+        <item itemvalue="Application.Find_Index_Of_Min_Element_In_Rotated_Sorted_Array_USING_LinearSearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08505e25-e5b6-472f-bdd4-7a8071452e7d" name="Default Changelist" comment="" />
+      <created>1581709093677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581709093677</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="190" key="#Inspections" timestamp="1582554339955">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="190" key="#Inspections/0.0.1680.1050@0.0.1680.1050" timestamp="1582554339955" />
+    <state width="1638" height="287" key="GridCell.Tab.0.bottom" timestamp="1584821216201">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state width="1638" height="287" key="GridCell.Tab.0.bottom/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1584095645692" />
+    <state width="1638" height="287" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1584723307134" />
+    <state width="1638" height="287" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1584821216201" />
+    <state width="1638" height="287" key="GridCell.Tab.0.center" timestamp="1584821216199">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state width="1638" height="287" key="GridCell.Tab.0.center/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1584095645691" />
+    <state width="1638" height="287" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1584723307133" />
+    <state width="1638" height="287" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1584821216199" />
+    <state width="1638" height="287" key="GridCell.Tab.0.left" timestamp="1584821216199">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state width="1638" height="287" key="GridCell.Tab.0.left/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1584095645690" />
+    <state width="1638" height="287" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1584723307132" />
+    <state width="1638" height="287" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1584821216199" />
+    <state width="1638" height="287" key="GridCell.Tab.0.right" timestamp="1584821216200">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state width="1638" height="287" key="GridCell.Tab.0.right/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1584095645692" />
+    <state width="1638" height="287" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1584723307134" />
+    <state width="1638" height="287" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1584821216200" />
+    <state x="349" y="164" key="SettingsEditor" timestamp="1584359696546">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="349" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1584359696546" />
+    <state x="519" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1584956198729">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="519" y="357" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1584956198729" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1584722661335">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1584722661335" />
+  </component>
+</project>
