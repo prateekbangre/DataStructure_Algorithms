@@ -1,4 +1,4 @@
-package org.geeksforgeeks.array;
+package org.geeksforgeeks.array.array_rotations;
 
 import java.util.Arrays;
 

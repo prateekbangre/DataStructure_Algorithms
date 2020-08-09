@@ -1,4 +1,4 @@
-package org.geeksforgeeks.array;
+package org.geeksforgeeks.array.array_rotations;
 
 /**
  * @author prateek.bangre on 27/02/20.

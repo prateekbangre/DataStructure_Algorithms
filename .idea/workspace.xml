@@ -2,23 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08505e25-e5b6-472f-bdd4-7a8071452e7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/geeksforgeeks/array/arrangement_rearrangement/Double_The_First_Element_And_Move_Zero_To_End.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/geeksforgeeks/array/arrangement_rearrangement/Move_All_Zeroes_To_End_Of_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/geeksforgeeks/array/arrangement_rearrangement/Move_All_Zeroes_To_End_Of_Array_Using_Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/geeksforgeeks/array/arrangement_rearrangement/Rearrange_An_Array_In_Index_Order_Using_HashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/geeksforgeeks/array/arrangement_rearrangement/Rearrange_An_Array_In_Index_Order_Using_Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/geeksforgeeks/array/arrangement_rearrangement/Rearrange_An_Array_In_Order_Of_Smallest_Largest_Way.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/geeksforgeeks/array/arrangement_rearrangement/Rearrange_Array_In_Alternating_Positive_Negative_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/geeksforgeeks/array/arrangement_rearrangement/Rearrange_Array_In_Negative_Positive_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/geeksforgeeks/array/arrangement_rearrangement/Reorder_An_Array_According_To_Given_Indexes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/todo_later.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/3/234551cadba60c51df174cfffa8ea122b5316f38" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2a0c724b33c3f8f3cc4ca272e4d151fba86269a9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e9f5287534e2ab86bcabfff7a3c5f9b053752ae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/7/3750f67b8553dba0424ed4d499e8a42478f1e9bb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c560e92e5331f1898294211cbb707f8ff865800" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/d/7d282485b002aead94f962601fa2b3cd6c87302e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d8199235d5606f24fb71540bfbd73dd06045680" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/5/954269edbc76b7cc55bea2f2eb063bde1734edf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9da3c1a646a8f672635825c586b149c01cc8e6f9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d9d27ee57c699d0ee183fd961f09cff720355b05" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d9d27ee57c699d0ee183fd961f09cff720355b05" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f0fa312529e24037a2bf9e6da009e8cb234327a3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f518b1728269d4e41d1324a369613c73c332aaab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/7/f7eabbf38b49ca77b77dbe02217e2705be64c42a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure_Algorithms/Count_Triplets.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure_Algorithms/META-INF/DataStructure_Algorithms.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure_Algorithms/org/geeksforgeeks/array/ArrayRotation_By_BlockSwapAlgorithm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure_Algorithms/org/geeksforgeeks/array/ArrayRotation_By_JugglingAlgorithm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure_Algorithms/org/geeksforgeeks/array/ArrayRotation_By_ReversalAlgorithm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure_Algorithms/org/geeksforgeeks/array/BasicArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure_Algorithms/org/geeksforgeeks/array/CyclicallyRotateAnArrayByOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure_Algorithms/org/geeksforgeeks/array/Find_Element_At_Given_Index_After_A_Number_Of_Rotations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure_Algorithms/org/geeksforgeeks/array/Find_If_There_Is_Pair_With_Given_Sum_In_Given_Sorted_And_RotatedArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure_Algorithms/org/geeksforgeeks/array/Find_Index_Of_Min_Element_In_Rotated_Sorted_Array_USING_BinarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure_Algorithms/org/geeksforgeeks/array/Find_Index_Of_Min_Element_In_Rotated_Sorted_Array_USING_LinearSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure_Algorithms/org/geeksforgeeks/array/Find_Maximum_Value_Of_Sum_With_Only_Rotations_On_Given_Array_Allowed.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure_Algorithms/org/geeksforgeeks/array/Search_An_Element_In_A_Sorted_And_Rotated_Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure_Algorithms/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure_Algorithms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/geeksforgeeks/array/ArrayRotation_By_BlockSwapAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/geeksforgeeks/array/array_rotations/ArrayRotation_By_BlockSwapAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/geeksforgeeks/array/ArrayRotation_By_JugglingAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/geeksforgeeks/array/array_rotations/ArrayRotation_By_JugglingAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/geeksforgeeks/array/ArrayRotation_By_ReversalAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/geeksforgeeks/array/array_rotations/ArrayRotation_By_ReversalAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/geeksforgeeks/array/BasicArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/geeksforgeeks/array/array_rotations/BasicArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/geeksforgeeks/array/CyclicallyRotateAnArrayByOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/geeksforgeeks/array/array_rotations/CyclicallyRotateAnArrayByOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/geeksforgeeks/array/Find_Element_At_Given_Index_After_A_Number_Of_Rotations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/geeksforgeeks/array/array_rotations/Find_Element_At_Given_Index_After_A_Number_Of_Rotations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/geeksforgeeks/array/Find_If_There_Is_Pair_With_Given_Sum_In_Given_Sorted_And_RotatedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/geeksforgeeks/array/array_rotations/Find_If_There_Is_Pair_With_Given_Sum_In_Given_Sorted_And_RotatedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/geeksforgeeks/array/Find_Index_Of_Min_Element_In_Rotated_Sorted_Array_USING_BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/geeksforgeeks/array/array_rotations/Find_Index_Of_Min_Element_In_Rotated_Sorted_Array_USING_BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/geeksforgeeks/array/Find_Index_Of_Min_Element_In_Rotated_Sorted_Array_USING_LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/geeksforgeeks/array/array_rotations/Find_Index_Of_Min_Element_In_Rotated_Sorted_Array_USING_LinearSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/geeksforgeeks/array/Find_Maximum_Value_Of_Sum_With_Only_Rotations_On_Given_Array_Allowed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/geeksforgeeks/array/array_rotations/Find_Maximum_Value_Of_Sum_With_Only_Rotations_On_Given_Array_Allowed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/geeksforgeeks/array/Search_An_Element_In_A_Sorted_And_Rotated_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/geeksforgeeks/array/array_rotations/Search_An_Element_In_A_Sorted_And_Rotated_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +52,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -49,25 +72,20 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="com.semmle.lgtm.intellij.plugin.stateDir" value="$PROJECT_DIR$/.idea/semmle" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
-  <component name="RunManager" selected="Application.CyclicallyRotateAnArrayByOne">
-    <configuration name="Count_Triplets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Count_Triplets" />
-      <module name="DataStructure_Algorithms" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CyclicallyRotateAnArrayByOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.geeksforgeeks.array.CyclicallyRotateAnArrayByOne" />
+  <component name="RunManager" selected="Application.Reorder_An_Array_According_To_Given_Indexes">
+    <configuration name="Double_The_First_Element_And_Move_Zero_To_End" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.geeksforgeeks.array.arrangement_rearrangement.Double_The_First_Element_And_Move_Zero_To_End" />
       <module name="DataStructure_Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.geeksforgeeks.array.*" />
+          <option name="PATTERN" value="org.geeksforgeeks.array.arrangement_rearrangement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Find_Element_At_Given_Index_After_A_Number_Of_Rotations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.geeksforgeeks.array.Find_Element_At_Given_Index_After_A_Number_Of_Rotations" />
+    <configuration name="Move_All_Zeroes_To_End_Of_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.geeksforgeeks.array.arrangement_rearrangement.Move_All_Zeroes_To_End_Of_Array" />
       <module name="DataStructure_Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.geeksforgeeks.array.*" />
+          <option name="PATTERN" value="org.geeksforgeeks.array.arrangement_rearrangement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Find_Index_Of_Min_Element_In_Rotated_Sorted_Array_USING_BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.geeksforgeeks.array.Find_Index_Of_Min_Element_In_Rotated_Sorted_Array_USING_BinarySearch" />
+    <configuration name="Move_All_Zeroes_To_End_Of_Array_Using_Swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.geeksforgeeks.array.arrangement_rearrangement.Move_All_Zeroes_To_End_Of_Array_Using_Swap" />
       <module name="DataStructure_Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.geeksforgeeks.array.*" />
+          <option name="PATTERN" value="org.geeksforgeeks.array.arrangement_rearrangement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,20 +119,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
+    <configuration name="Rearrange_An_Array_In_Order_Of_Smallest_Largest_Way" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.geeksforgeeks.array.arrangement_rearrangement.Rearrange_An_Array_In_Order_Of_Smallest_Largest_Way" />
       <module name="DataStructure_Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.geeksforgeeks.array.arrangement_rearrangement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reorder_An_Array_According_To_Given_Indexes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.geeksforgeeks.array.arrangement_rearrangement.Reorder_An_Array_According_To_Given_Indexes" />
+      <module name="DataStructure_Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.geeksforgeeks.array.arrangement_rearrangement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CyclicallyRotateAnArrayByOne" />
-        <item itemvalue="Application.Find_Element_At_Given_Index_After_A_Number_Of_Rotations" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.Find_Index_Of_Min_Element_In_Rotated_Sorted_Array_USING_BinarySearch" />
-        <item itemvalue="Application.Count_Triplets" />
+        <item itemvalue="Application.Reorder_An_Array_According_To_Given_Indexes" />
+        <item itemvalue="Application.Double_The_First_Element_And_Move_Zero_To_End" />
+        <item itemvalue="Application.Rearrange_An_Array_In_Order_Of_Smallest_Largest_Way" />
+        <item itemvalue="Application.Move_All_Zeroes_To_End_Of_Array_Using_Swap" />
+        <item itemvalue="Application.Move_All_Zeroes_To_End_Of_Array" />
       </list>
     </recent_temporary>
   </component>
@@ -132,38 +169,66 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="190" key="#Inspections" timestamp="1582554339955">
+    <state x="440" y="190" key="#Inspections" timestamp="1587597434727">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="190" key="#Inspections/0.0.1680.1050@0.0.1680.1050" timestamp="1582554339955" />
+    <state x="440" y="190" key="#Inspections/0.0.1680.1050@0.0.1680.1050" timestamp="1587597434727" />
     <state x="396" y="104" key="CommitChangelistDialog2" timestamp="1587449378396">
       <screen x="0" y="23" width="1680" height="963" />
     </state>
     <state x="396" y="104" key="CommitChangelistDialog2/0.23.1680.963@0.23.1680.963" timestamp="1587449378396" />
-    <state width="1638" height="251" key="GridCell.Tab.0.bottom" timestamp="1587448386456">
+    <state width="1638" height="354" key="GridCell.Tab.0.bottom" timestamp="1587848952311">
       <screen x="0" y="23" width="1680" height="963" />
     </state>
     <state width="1638" height="287" key="GridCell.Tab.0.bottom/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1584095645692" />
-    <state width="1638" height="287" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1584723307134" />
-    <state width="1638" height="251" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1587448386456" />
-    <state width="1638" height="251" key="GridCell.Tab.0.center" timestamp="1587448386455">
+    <state width="1638" height="286" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1587703800500" />
+    <state width="1638" height="354" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1587848952311" />
+    <state width="1638" height="354" key="GridCell.Tab.0.center" timestamp="1587848952310">
       <screen x="0" y="23" width="1680" height="963" />
     </state>
     <state width="1638" height="287" key="GridCell.Tab.0.center/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1584095645691" />
-    <state width="1638" height="287" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1584723307133" />
-    <state width="1638" height="251" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1587448386455" />
-    <state width="1638" height="251" key="GridCell.Tab.0.left" timestamp="1587448386454">
+    <state width="1638" height="286" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1587703800499" />
+    <state width="1638" height="354" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1587848952310" />
+    <state width="1638" height="354" key="GridCell.Tab.0.left" timestamp="1587848952310">
       <screen x="0" y="23" width="1680" height="963" />
     </state>
     <state width="1638" height="287" key="GridCell.Tab.0.left/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1584095645690" />
-    <state width="1638" height="287" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1584723307132" />
-    <state width="1638" height="251" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1587448386454" />
-    <state width="1638" height="251" key="GridCell.Tab.0.right" timestamp="1587448386455">
+    <state width="1638" height="286" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1587703800499" />
+    <state width="1638" height="354" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1587848952310" />
+    <state width="1638" height="354" key="GridCell.Tab.0.right" timestamp="1587848952311">
       <screen x="0" y="23" width="1680" height="963" />
     </state>
     <state width="1638" height="287" key="GridCell.Tab.0.right/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1584095645692" />
-    <state width="1638" height="287" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1584723307134" />
-    <state width="1638" height="251" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1587448386455" />
+    <state width="1638" height="286" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1587703800500" />
+    <state width="1638" height="354" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1587848952311" />
+    <state width="1638" height="354" key="GridCell.Tab.1.bottom" timestamp="1587848952312">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1587599683252" />
+    <state width="1638" height="354" key="GridCell.Tab.1.bottom/0.23.1680.963@0.23.1680.963" timestamp="1587848952312" />
+    <state width="1638" height="354" key="GridCell.Tab.1.center" timestamp="1587848952312">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1587599683250" />
+    <state width="1638" height="354" key="GridCell.Tab.1.center/0.23.1680.963@0.23.1680.963" timestamp="1587848952312" />
+    <state width="1638" height="354" key="GridCell.Tab.1.left" timestamp="1587848952311">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1587599683249" />
+    <state width="1638" height="354" key="GridCell.Tab.1.left/0.23.1680.963@0.23.1680.963" timestamp="1587848952311" />
+    <state width="1638" height="354" key="GridCell.Tab.1.right" timestamp="1587848952312">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1587599683251" />
+    <state width="1638" height="354" key="GridCell.Tab.1.right/0.23.1680.963@0.23.1680.963" timestamp="1587848952312" />
+    <state x="469" y="205" key="NewModule_or_Project.wizard" timestamp="1587848801543">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state x="469" y="205" key="NewModule_or_Project.wizard/0.23.1680.963@0.23.1680.963" timestamp="1587848801543" />
+    <state x="447" y="254" key="RollbackChangesDialog" timestamp="1587594057971">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="447" y="254" key="RollbackChangesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1587594057971" />
     <state x="349" y="164" key="SettingsEditor" timestamp="1584359696546">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -172,10 +237,20 @@
       <screen x="0" y="23" width="1680" height="963" />
     </state>
     <state x="440" y="244" key="Vcs.Push.Dialog.v2/0.23.1680.963@0.23.1680.963" timestamp="1587449380841" />
-    <state x="519" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1584956198729">
+    <state x="519" y="350" key="com.intellij.ide.util.TipDialog" timestamp="1587593026906">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state x="519" y="357" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1587452734459" />
+    <state x="519" y="350" key="com.intellij.ide.util.TipDialog/0.23.1680.963@0.23.1680.963" timestamp="1587593026906" />
+    <state x="506" y="282" width="667" height="486" key="find.popup" timestamp="1587593336436">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="519" y="357" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1584956198729" />
+    <state x="506" y="282" width="667" height="486" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1587593336436" />
+    <state x="234" y="227" key="new project wizard" timestamp="1587831053222">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state x="234" y="222" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1587755968080" />
+    <state x="234" y="227" key="new project wizard/0.23.1680.963@0.23.1680.963" timestamp="1587831053222" />
     <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1584722661335">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>

@@ -1,0 +1,10 @@
+array rotation
+https://www.geeksforgeeks.org/queries-left-right-circular-shift-array/
+
+arrangement rearrangement
+https://www.geeksforgeeks.org/rearrange-array-arri-arrj-even-arri/
+https://www.geeksforgeeks.org/rearrange-positive-and-negative-numbers-publish/
+https://www.geeksforgeeks.org/minimum-swaps-required-bring-elements-less-equal-k-together/
+https://www.geeksforgeeks.org/rearrange-array-such-that-even-positioned-are-greater-than-odd/
+
+
