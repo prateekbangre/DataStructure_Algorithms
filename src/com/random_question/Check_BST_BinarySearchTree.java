@@ -21,7 +21,8 @@ public class Check_BST_BinarySearchTree {
             return false;
         }
 
-        return checkBST(root.left, min, root.data-1) && checkBST(root.right, root.data+1, max);
+        return checkBST(root.left, min, root.data-1)
+                && checkBST(root.right, root.data+1, max);
     }
 
     boolean checkBST(Node root){

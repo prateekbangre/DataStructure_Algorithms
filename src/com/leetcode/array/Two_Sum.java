@@ -1,29 +1,26 @@
-package com.prateekbangre;
+package com.leetcode.array;
 
 import java.util.Arrays;
 import java.util.HashMap;
 
 /**
- * @author prateek.bangre on 08/08/20.
- * @Project LeetCode
+ * @author prateek.bangre on 07/07/21.
+ * @Project DataStructure_Algorithms
  */
 /*
-//URL: https://leetcode.com/problems/two-sum/
-* Given an array of integers, return indices of the two numbers such that they add up to a specific target.
-
+url: https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/
+https://leetcode.com/problems/two-sum/
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
-
-Example:
-
-Given nums = [2, 7, 11, 15], target = 9,
-
-Because nums[0] + nums[1] = 2 + 7 = 9,
-return [0, 1].
-* */
-
+You can return the answer in any order.
+Example 1:
+Input: nums = [2,7,11,15], target = 9
+Output: [0,1]
+Output: Because nums[0] + nums[1] == 9, we return [0, 1].
+ */
 public class Two_Sum {
 
-//    public static int[] twoSum(int[] nums, int target) {
+    //    public static int[] twoSum(int[] nums, int target) {
 //
 //        for (int i=0; i<nums.length; ++i){
 //            for (int j=i+1; j<nums.length; ++j){
@@ -50,9 +47,11 @@ public class Two_Sum {
     }
 
     public static void main(String[] args) {
-        int[] nums = new int[]{2, 7, 11, 15};
-        int target = 9;
+//        int[] nums = new int[]{2,7,11,15};  int target = 9;
+        int[] nums = new int[]{3,2,4};  int target = 6;
+//        int[] nums = new int[]{3,3};  int target = 6;
 
-        System.out.println("result: "+ Arrays.toString(twoSum(nums, target)));
+
+        System.out.println(Arrays.toString(twoSum(nums, target)));
     }
 }

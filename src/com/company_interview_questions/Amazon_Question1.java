@@ -45,6 +45,9 @@ public class Amazon_Question1 {
         int dir = 0;
 
         // N = 0, E = 1, S = 2, W = 3
+        //        1,0
+        //  0,-1        0,1
+        //       -1,0
         int[][] moves = new int[][]{{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
 
         for (char direction : instructions.toCharArray()) {
